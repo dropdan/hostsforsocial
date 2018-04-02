@@ -1,3 +1,5 @@
+# List to disable most social advertisement
+
 0.0.0.0 apps.facebook.com
 0.0.0.0 connect.facebook.net
 0.0.0.0 facebook.com
